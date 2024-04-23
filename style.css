@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(217, 235, 186);
+}
+/* leftside */
+.left1 .image .sneha{
+    border-radius: 150px;
+    width: 280px;
+    height: 280px;
+}
+.left1 .contact h1{
+    color: brown;
+}
+.left1 .prolan h1{
+    color: brown;
+}
+.left1 .Project h1{
+    color: brown;
+}
+.left1 .languages h1{
+    color: brown;
+}
+/* rightside */
+.right1 .heading h1{
+    color: brown;
+}
+.right1 .heading h2{
+    color: rgb(174, 10, 97);
+}
+.right1 .prosum h1{
+    color: brown;
+}
+.right1 .prosum p{
+    color: black;
+}
+.right1 .education h1{
+    color: brown;
+}
+.right1 .education h2{
+    color: rgb(8, 115, 53);
+}
+.right1 .internship h1{
+    color: brown;
+}
+.right1 .internship h2{
+    color: rgb(8, 115, 53);
+}
