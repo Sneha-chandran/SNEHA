@@ -13,6 +13,9 @@ body{
     justify-content: center;
 }
 /* leftside */
+.left1{
+    padding-left: 30px;
+}
 .left1 .image .sneha{
     border-radius: 150px;
     width: 280px;
@@ -31,8 +34,13 @@ body{
     color: brown;
 }
 /* rightside */
+.right1{
+    padding-left: 40px;
+    padding-top: 100px;
+}
 .right1 .heading h1{
-    color: brown;
+    font-size: 70px;
+    color: rgb(14, 12, 12);
 }
 .right1 .heading h2{
     color: rgb(174, 10, 97);
