@@ -12,54 +12,40 @@ body{
     display: flex;
     justify-content: center;
 }
+.left1 .link{
+    color: white;
+
+}
 /* leftside */
-.left1{
+.left1  {
     padding-left: 30px;
+    background-color: rgba(49 81 96)
 }
 .left1 .image .sneha{
     border-radius: 150px;
     width: 280px;
     height: 280px;
 }
-.left1 .contact h1{
-    color: brown;
+.left1 .headline{
+    color: rgb(145, 182, 201);
+    font-size: 20px;
 }
-.left1 .prolan h1{
-    color: brown;
-}
-.left1 .Project h1{
-    color: brown;
-}
-.left1 .languages h1{
-    color: brown;
+.left1 .details{
+    color: white;
 }
 /* rightside */
-.right1{
+.right1 {
+    background-color: white;
     padding-left: 40px;
     padding-top: 100px;
 }
-.right1 .heading h1{
-    font-size: 70px;
-    color: rgb(14, 12, 12);
+.right1 .headline{
+    font-size: 30px;
 }
-.right1 .heading h2{
-    color: rgb(174, 10, 97);
-}
-.right1 .prosum h1{
-    color: brown;
+.right1 .heading .headline{
+    font-size: 60px;
 }
 .right1 .prosum p{
     color: black;
 }
-.right1 .education h1{
-    color: brown;
-}
-.right1 .education h2{
-    color: rgb(8, 115, 53);
-}
-.right1 .internship h1{
-    color: brown;
-}
-.right1 .internship h2{
-    color: rgb(8, 115, 53);
-}
+
