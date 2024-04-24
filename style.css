@@ -19,6 +19,7 @@ body{
 /* leftside */
 .left1  {
     padding-left: 30px;
+    padding-top: 20px;
     background-color: rgba(49 81 96)
 }
 .left1 .image .sneha{
@@ -37,7 +38,8 @@ body{
 .right1 {
     background-color: white;
     padding-left: 40px;
-    padding-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .right1 .headline{
     font-size: 30px;
@@ -47,5 +49,8 @@ body{
 }
 .right1 .prosum p{
     color: black;
+}
+.right1 h2{
+    font-size: 20px;
 }
 
